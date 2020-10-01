@@ -1,8 +1,31 @@
 ### Hi there 👋
 ## I'm Ishwar Chandra
 
-###### ***Software Engineer*** | *** ***
+###### ***Software Engineer*** | *** Javascript, TypeScript, Node js, React js, Flutter, IPFS, Blockchain(Bitcoin, Ethereum)
+💻Software Engineer
+☠️Love hacking
+📟 Blockchain developer
+📱Playing Video games
+🌱 Planting flowers and watching them grow
+***
 
+## Greetings GitHub Viewer
+
+```JavaScript
+console.log('Hello, JavaScript world!')
+```
+
+```TypeScript
+console.log('Hello, TypeScript world!')
+```
+
+```flutter
+print('Flutter world!')
+```
+
+## What I do?
+    - I work with Node.js
+    - I play with Flutter
 
 <!--
 **ishwarchandratiwari/ishwarchandratiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,6 +47,17 @@ Here are some ideas to get you started:
 * **Twitter:** [ishwarhai](https://twitter.com/ishwarhai)
 * **Instagram:** [ishwar_chandra_tiwari](https://www.instagram.com/ishwar_chandra_tiwari/)
 * **Medium:** [ishwar.chandra](https://medium.com/@ishwar.chandra)
+
+
+
+### I am available to create videos, courses, or articles on the following topics:
+
+* JavaScript
+* Sass
+* Django
+* Python
+* Blockchain
+
 
 ### My GitHub stats
 
