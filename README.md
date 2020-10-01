@@ -19,10 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* **YouTube:** [Faraday Academy](https://youtube.com/c/FaradayAcademy)
-* **Twitch:** [faradayacademy](https://twitch.tv/faradayacademy)
-* **Twitter:** [faradayacademy](https://twitter.com/faradayacademy)
-* **Instagram:** [gwen_faraday](https://www.instagram.com/gwen_faraday)
+
 
 ### My GitHub stats
 
