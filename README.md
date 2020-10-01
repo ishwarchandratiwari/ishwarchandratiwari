@@ -2,7 +2,8 @@
 ## I'm Ishwar Chandra
 
 ###### ***Software Engineer*** | *** Javascript, TypeScript, Node js, React js, Flutter, IPFS, Blockchain(Bitcoin, Ethereum)***
-***💻Software Engineer
+***
+💻Software Engineer
 ☠️Love hacking
 📟 Blockchain developer
 📱Playing Video games
