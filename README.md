@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 -->
 
 
-* **Stackoverflow:** [ishwar-chandra-tiwari](https://stackoverflow.com/users/9042365/ishwar-chandra-tiwari?tab=profile)
-* **Medium:** [ishwar.chandra](https://medium.com/@ishwar.chandra)
+* **Stackoverflow:** (https://stackoverflow.com/users/9042365)
+* **Medium:** (https://medium.com/@ishwar.chandra)
 
 
 
