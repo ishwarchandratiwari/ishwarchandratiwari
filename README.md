@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm Ishwar Chandra
+## I'm Ishwar 
 
 <!--###### ***Software Engineer*** | *** Javascript, TypeScript, Node js, React js, Flutter, IPFS, Blockchain(Bitcoin, Ethereum)***-->
 
