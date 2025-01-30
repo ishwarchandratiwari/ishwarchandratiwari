@@ -45,8 +45,6 @@ Here are some ideas to get you started:
 
 
 * **Stackoverflow:** [ishwar-chandra-tiwari](https://stackoverflow.com/users/9042365/ishwar-chandra-tiwari?tab=profile)
-* **Twitter:** [ishwarhai](https://twitter.com/ishwarhai)
-* **Instagram:** [ishwar_chandra_tiwari](https://www.instagram.com/ishwar_chandra_tiwari/)
 * **Medium:** [ishwar.chandra](https://medium.com/@ishwar.chandra)
 
 
